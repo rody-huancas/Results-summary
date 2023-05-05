@@ -27,7 +27,6 @@
 }
 
 body {
-  background-color: var(--Pale-blue);
   height: 100vh;
   display: flex;
   flex-direction: column;
